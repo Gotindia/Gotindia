@@ -1,2 +1,0 @@
-# Gotindia
-Non-Profit Organisation.
