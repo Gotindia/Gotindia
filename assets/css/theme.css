@@ -56,8 +56,8 @@
 
 body {
   margin: 0;
-  font-family: "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  font-size: 1rem;
+  font-family: "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 23px;
   font-weight: 400;
   line-height: 1.5;
   color: #616368;
@@ -88,7 +88,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
   font-family: "Poppins", "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-weight: 500;
   line-height: 1.2;
-  color: #242F51;
+  color: #000;
 }
 
 h1, .h1 {
@@ -501,19 +501,19 @@ progress {
 
 @media (min-width: 1200px) {
   .display-2 {
-    font-size: 3.58318rem;
+    font-size: 3.7rem;
   }
 }
 
 .display-3 {
-  font-size: calc(1.4236rem + 2.08318vw);
+  font-size: 3.7rem;
   font-weight: 900;
   line-height: 1;
 }
 
 @media (min-width: 1200px) {
   .display-3 {
-    font-size: 2.98598rem;
+    font-size: 3.7rem;
   }
 }
 
@@ -4958,7 +4958,7 @@ fieldset:disabled .btn {
     position: absolute;
   }
   .navbar-expand-lg .navbar-nav .nav-link {
-    padding-right: 0.5rem;
+    padding-right: 5.5rem;
     padding-left: 0.5rem;
   }
   .navbar-expand-lg .navbar-nav-scroll {
@@ -9324,7 +9324,7 @@ fieldset:disabled .btn {
 }
 
 .fs-1 {
-  font-size: 1.2rem !important;
+  font-size: 2.2rem !important;
 }
 
 .fs-2 {
@@ -9336,7 +9336,7 @@ fieldset:disabled .btn {
 }
 
 .fs-4 {
-  font-size: 2.0736rem !important;
+  font-size: 4.0736rem !important;
 }
 
 .fs-5 {
@@ -9560,7 +9560,7 @@ fieldset:disabled .btn {
 }
 
 .bg-1000 {
-  background-color: #242F51 !important;
+  background-color: #000 !important;
 }
 
 .bg-1100 {
