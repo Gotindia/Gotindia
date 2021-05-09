@@ -45,7 +45,6 @@ body {
   font-family: 'Cantarell', sans-serif;
   font-size: 23px;
   font-weight: 400;
-  letter-spacing: -0.7px;
   line-height: 1.5;
   color: #616368;
   background-color: #fff;
@@ -60,6 +59,7 @@ body {
 .footerlink{
   color: #fff;
 }
+
 
 hr {
   margin: 1rem 0;
