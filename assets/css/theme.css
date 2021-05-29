@@ -86,6 +86,9 @@ h1, .h1 {
   font-size: calc(1.37383rem + 1.48598vw);
 }
 
+p{
+  letter-spacing: -1px;
+}
 .gotstyle{
   font-size: 35px;
   font-family: 'Anonymous Pro', monospace;
