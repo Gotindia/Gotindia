@@ -4682,6 +4682,7 @@ fieldset:disabled .btn {
 .nav-tabs .nav-link.active,
 .nav-tabs .nav-item.show .nav-link {
   color: #7D7987;
+  padding-right: 1.5rem;
   background-color: #fff;
   border-color: #E1E0E4 #E1E0E4 #fff;
 }
