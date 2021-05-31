@@ -4682,7 +4682,6 @@ fieldset:disabled .btn {
 .nav-tabs .nav-link.active,
 .nav-tabs .nav-item.show .nav-link {
   color: #7D7987;
-  padding-right: 1.5rem;
   background-color: #fff;
   border-color: #E1E0E4 #E1E0E4 #fff;
 }
@@ -4959,10 +4958,11 @@ fieldset:disabled .btn {
     position: absolute;
   }
   .navbar-expand-lg .navbar-nav .nav-link {
-    padding-right: 3.5rem;
+    padding-right: 1.7rem;
     padding-left: 0.5rem;
     font-size: 18px;
   }
+
   .navbar-expand-lg .navbar-nav-scroll {
     overflow: visible;
   }
