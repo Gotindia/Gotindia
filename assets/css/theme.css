@@ -54,10 +54,10 @@ body {
 
 .titlegot{
   font-weight: 700;
-  font-size: 50px;
+  font-size: 43px;
   padding-top: 10px;
   color: #202020;
-  font-family: 'Righteous', cursive;
+  font-family: 'Poppins', cursive;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
