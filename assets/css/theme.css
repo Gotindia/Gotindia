@@ -57,7 +57,7 @@ body {
   font-size: 43px;
   padding-top: 10px;
   color: #202020;
-  font-family: 'Poppins', cursive;
+  font-family: 'MuseoModerno', cursive;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
