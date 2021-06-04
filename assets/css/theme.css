@@ -57,7 +57,7 @@ body {
   font-size: 43px;
   padding-top: 10px;
   color: #202020;
-  font-family: 'MuseoModerno', cursive;
+font-family: 'Hind Siliguri', sans-serif;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
